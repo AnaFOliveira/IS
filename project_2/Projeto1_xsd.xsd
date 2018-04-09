@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="catalog">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="vinyl"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="vinyl">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="1" ref="title"/>
+        <xs:element maxOccurs="unbounded" ref="artist"/>
+        <xs:element maxOccurs="1" ref="year"/>
+        <xs:element maxOccurs="unbounded" ref="genre"/>
+        <xs:element minOccurs="0" maxOccurs="1" ref="rating"/>
+        <xs:element minOccurs="0" maxOccurs="1" ref="nreview"/>
+        <xs:element maxOccurs="unbounded" ref="music"/>
+        <xs:element maxOccurs="1" ref="price"/>
+      </xs:sequence>
+      <xs:attribute name="id" use="required" type="xs:string"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="title" type="xs:string"/>
+  <xs:element name="artist" type="xs:string"/>
+  <xs:element name="year" type="xs:integer"/>
+  <xs:element name="genre" type="xs:string"/>
+  <xs:element name="rating" type="xs:decimal"/>
+  <xs:element name="nreview" type="xs:integer"/>
+  <xs:element name="music">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="1" ref="name"/>
+        <xs:element minOccurs="0" maxOccurs="1" ref="duration"/>
+        <xs:element minOccurs="0" maxOccurs="1" ref="srating"/>
+        <xs:element minOccurs="0" maxOccurs="1" ref="snreview"/>
+        <xs:element minOccurs="0" maxOccurs="1" ref="sprice"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="name" type="xs:string"/>
+  <xs:element name="duration" type="xs:decimal"/>
+  <xs:element name="srating" type="xs:decimal"/>
+  <xs:element name="snreview" type="xs:integer"/>
+  <xs:element name="sprice" type="xs:decimal"/>
+  <xs:element name="price" type="xs:decimal"/>
+</xs:schema>

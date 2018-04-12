@@ -18,6 +18,7 @@
         <xs:element minOccurs="0" maxOccurs="1" ref="nreview"/>
         <xs:element maxOccurs="unbounded" ref="music"/>
         <xs:element maxOccurs="1" ref="price"/>
+        <xs:element maxOccurs="1" ref="label"/>
       </xs:sequence>
       <xs:attribute name="id" use="required" type="xs:string"/>
     </xs:complexType>
@@ -45,4 +46,5 @@
   <xs:element name="snreview" type="xs:integer"/>
   <xs:element name="sprice" type="xs:decimal"/>
   <xs:element name="price" type="xs:decimal"/>
+  <xs:element name="label" type="xs:string"/>
 </xs:schema>

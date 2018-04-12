@@ -8,7 +8,10 @@ import javax.persistence.EntityManagerFactory;
 import javax.persistence.EntityTransaction;
 import javax.persistence.Persistence;
 
-
+import classes_xml.Catalog;
+import classes_xml.Music;
+import classes_xml.Unmarshall;
+import classes_xml.Vinyl;
 
 
 public class Loader {

@@ -23,6 +23,7 @@
 			<sprice>1.29</sprice>
 		</music>
 		<price>19.19</price>
+		<label>Geffen</label>
 	</vinyl>
 	<vinyl id="B06XYJ4GF1">
 		<title>From A Room</title>
@@ -54,6 +55,7 @@
 			<sprice>1.29</sprice>
 		</music>
 		<price>20.24</price>
+		<label>Mercury Nashville</label>
 	</vinyl>
 	<vinyl id="B00001OH7V">
 		<title>Heroes</title>
@@ -79,6 +81,7 @@
 			<sprice>1.29</sprice>
 		</music>
 		<price>54.99</price>
+		<label>Parlophone UK</label>
 	</vinyl>
 	<vinyl id="B00U1Z5NAQ">
 		<title>Ultimate Sinatra</title>
@@ -96,6 +99,7 @@
 			<duration>3.12</duration>
 		</music>
 		<price>30.08</price>
+		<label>Capitol</label>
 	</vinyl>
 	<vinyl id="B01IOED4BK">
 		<title>The Wall</title>
@@ -120,6 +124,7 @@
 			<sprice>1.29</sprice>
 		</music>
 		<price>36.41</price>
+		<label>Pink Floyd Records</label>
 	</vinyl>
 	<vinyl id="B078Y34P2N">
 		<title>Little Dark Age</title>
@@ -141,6 +146,7 @@
 			<sprice>1.29</sprice>
 		</music>
 		<price>30.39</price>
+		<label>Columbia</label>
 	</vinyl>
 	<vinyl id="B000Q19C20">
 		<title>Star Wars</title>
@@ -161,6 +167,7 @@
 			<sprice>1.29</sprice>
 		</music>
 		<price>49.00</price>
+		<label>Polygram Records</label>
 	</vinyl>
 	<vinyl id="B01AGA52UG">
 		<title>Scary Monsters</title>
@@ -182,6 +189,7 @@
 			<sprice>1.29</sprice>
 		</music>
 		<price>19.97</price>
+		<label>Parlophone UK</label>
 	</vinyl>
 	<vinyl id="B00NQ2ZGAI">
 		<title>Dark Side of the Mule</title>
@@ -202,7 +210,7 @@
 			<sprice>1.29</sprice>
 		</music>
 		<price>26.97</price>
+		<label>Evil Teen Records</label>
 	</vinyl>
-	
+</catalog>	
 
-</catalog>

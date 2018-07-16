@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="project_2_ear">
+        <wb-resource deploy-path="/" source-path="/EarContent" tag="defaultRootSource"/>
+        <dependent-module archiveName="projeto_2_web.war" deploy-path="/" handle="module:/resource/projeto_2_web/projeto_2_web">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="project_2_jpa.jar" deploy-path="/lib" handle="module:/resource/project_2_jpa/project_2_jpa">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="project_2_ejb.jar" deploy-path="/" handle="module:/resource/project_2_ejb/project_2_ejb">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="project_2_wfe.war" deploy-path="/" handle="module:/resource/project_2_wfe/project_2_wfe">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>

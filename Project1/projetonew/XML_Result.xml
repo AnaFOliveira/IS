@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalognew>
+    <category id="Rock">
+        <vinylnew asin="B00NQ2ZGAI">
+            <title>Dark Side of the Mule</title>
+            <year>2014</year>
+            <artist>Gov't Mule</artist>
+            <rating>4.5</rating>
+            <nreview>240</nreview>
+            <musicnew>
+                <name>Comfortably Numb</name>
+                <duration>6.10</duration>
+                <sprice>1.29</sprice>
+            </musicnew>
+            <musicnew>
+                <name>Have a Cigar</name>
+                <duration>6.27</duration>
+                <sprice>1.29</sprice>
+            </musicnew>
+            <price>26.97</price>
+        </vinylnew>
+        <vinylnew asin="B078Y34P2N">
+            <title>Little Dark Age</title>
+            <year>2018</year>
+            <artist>MGMT</artist>
+            <rating>4.5</rating>
+            <nreview>10</nreview>
+            <musicnew>
+                <name>Little Dark Age</name>
+                <duration>4.59</duration>
+                <sprice>1.29</sprice>
+            </musicnew>
+            <musicnew>
+                <name>James</name>
+                <duration>3.52</duration>
+                <sprice>1.29</sprice>
+            </musicnew>
+            <price>30.39</price>
+        </vinylnew>
+        <vinylnew asin="B01IOED4BK">
+            <title>The Wall</title>
+            <year>2016</year>
+            <artist>Pink Floyd</artist>
+            <rating>4.5</rating>
+            <nreview>2350</nreview>
+            <musicnew>
+                <name>Mother</name>
+                <duration>5.34</duration>
+                <srating>5</srating>
+                <snreview>13</snreview>
+                <sprice>1.29</sprice>
+            </musicnew>
+            <musicnew>
+                <name>Hey You</name>
+                <duration>4.38</duration>
+                <srating>4.5</srating>
+                <snreview>26</snreview>
+                <sprice>1.29</sprice>
+            </musicnew>
+            <price>36.41</price>
+        </vinylnew>
+        <vinylnew asin="B000WOUUM2">
+            <title>Full Moon Fever</title>
+            <year>2017</year>
+            <artist>Tom Petty</artist>
+            <rating>5</rating>
+            <nreview>211</nreview>
+            <musicnew>
+                <name>Love Is A Long Road</name>
+                <duration>4.07</duration>
+                <srating>5</srating>
+                <snreview>4</snreview>
+                <sprice>1.29</sprice>
+            </musicnew>
+            <musicnew>
+                <name>A Face In The Crowd</name>
+                <duration>3.59</duration>
+                <srating>5</srating>
+                <snreview>8</snreview>
+                <sprice>1.29</sprice>
+            </musicnew>
+            <price>19.19</price>
+        </vinylnew>
+    </category>
+    <category id="Pop">
+        <vinylnew asin="B06XYJ4GF1">
+            <title>From A Room</title>
+            <year>2017</year>
+            <artist>Chris Stapleton</artist>
+            <rating>4.5</rating>
+            <nreview>211</nreview>
+            <musicnew>
+                <name>Death Row</name>
+                <duration>4.03</duration>
+                <srating>5</srating>
+                <snreview>3</snreview>
+                <sprice>1.29</sprice>
+            </musicnew>
+            <musicnew>
+                <name>I Was Wrong</name>
+                <duration>3.11</duration>
+                <srating>5</srating>
+                <snreview>6</snreview>
+                <sprice>1.29</sprice>
+            </musicnew>
+            <musicnew>
+                <name>Without your love </name>
+                <duration>3.51</duration>
+                <srating>5</srating>
+                <snreview>2</snreview>
+                <sprice>1.29</sprice>
+            </musicnew>
+            <price>20.24</price>
+        </vinylnew>
+        <vinylnew asin="B00NQ2ZGAI">
+            <title>Dark Side of the Mule</title>
+            <year>2014</year>
+            <artist>Gov't Mule</artist>
+            <rating>4.5</rating>
+            <nreview>240</nreview>
+            <musicnew>
+                <name>Comfortably Numb</name>
+                <duration>6.10</duration>
+                <sprice>1.29</sprice>
+            </musicnew>
+            <musicnew>
+                <name>Have a Cigar</name>
+                <duration>6.27</duration>
+                <sprice>1.29</sprice>
+            </musicnew>
+            <price>26.97</price>
+        </vinylnew>
+        <vinylnew asin="B078Y34P2N">
+            <title>Little Dark Age</title>
+            <year>2018</year>
+            <artist>MGMT</artist>
+            <rating>4.5</rating>
+            <nreview>10</nreview>
+            <musicnew>
+                <name>Little Dark Age</name>
+                <duration>4.59</duration>
+                <sprice>1.29</sprice>
+            </musicnew>
+            <musicnew>
+                <name>James</name>
+                <duration>3.52</duration>
+                <sprice>1.29</sprice>
+            </musicnew>
+            <price>30.39</price>
+        </vinylnew>
+        <vinylnew asin="B01IOED4BK">
+            <title>The Wall</title>
+            <year>2016</year>
+            <artist>Pink Floyd</artist>
+            <rating>4.5</rating>
+            <nreview>2350</nreview>
+            <musicnew>
+                <name>Mother</name>
+                <duration>5.34</duration>
+                <srating>5</srating>
+                <snreview>13</snreview>
+                <sprice>1.29</sprice>
+            </musicnew>
+            <musicnew>
+                <name>Hey You</name>
+                <duration>4.38</duration>
+                <srating>4.5</srating>
+                <snreview>26</snreview>
+                <sprice>1.29</sprice>
+            </musicnew>
+            <price>36.41</price>
+        </vinylnew>
+        <vinylnew asin="B000WOUUM2">
+            <title>Full Moon Fever</title>
+            <year>2017</year>
+            <artist>Tom Petty</artist>
+            <rating>5</rating>
+            <nreview>211</nreview>
+            <musicnew>
+                <name>Love Is A Long Road</name>
+                <duration>4.07</duration>
+                <srating>5</srating>
+                <snreview>4</snreview>
+                <sprice>1.29</sprice>
+            </musicnew>
+            <musicnew>
+                <name>A Face In The Crowd</name>
+                <duration>3.59</duration>
+                <srating>5</srating>
+                <snreview>8</snreview>
+                <sprice>1.29</sprice>
+            </musicnew>
+            <price>19.19</price>
+        </vinylnew>
+    </category>
+    <category id="Country">
+        <vinylnew asin="B06XYJ4GF1">
+            <title>From A Room</title>
+            <year>2017</year>
+            <artist>Chris Stapleton</artist>
+            <rating>4.5</rating>
+            <nreview>211</nreview>
+            <musicnew>
+                <name>Death Row</name>
+                <duration>4.03</duration>
+                <srating>5</srating>
+                <snreview>3</snreview>
+                <sprice>1.29</sprice>
+            </musicnew>
+            <musicnew>
+                <name>I Was Wrong</name>
+                <duration>3.11</duration>
+                <srating>5</srating>
+                <snreview>6</snreview>
+                <sprice>1.29</sprice>
+            </musicnew>
+            <musicnew>
+                <name>Without your love </name>
+                <duration>3.51</duration>
+                <srating>5</srating>
+                <snreview>2</snreview>
+                <sprice>1.29</sprice>
+            </musicnew>
+            <price>20.24</price>
+        </vinylnew>
+    </category>
+    <category id="Vocal Pop">
+        <vinylnew asin="B00U1Z5NAQ">
+            <title>Ultimate Sinatra</title>
+            <year>2015</year>
+            <artist>Frank Sinatra</artist>
+            <rating>4.5</rating>
+            <nreview>535</nreview>
+            <musicnew>
+                <name>All Or Nothing At All</name>
+                <duration>2.58</duration>
+            </musicnew>
+            <musicnew>
+                <name>Nancy</name>
+                <duration>3.12</duration>
+            </musicnew>
+            <price>30.08</price>
+        </vinylnew>
+    </category>
+    <category id="Alternative Rock">
+        <vinylnew asin="B078Y34P2N">
+            <title>Little Dark Age</title>
+            <year>2018</year>
+            <artist>MGMT</artist>
+            <rating>4.5</rating>
+            <nreview>10</nreview>
+            <musicnew>
+                <name>Little Dark Age</name>
+                <duration>4.59</duration>
+                <sprice>1.29</sprice>
+            </musicnew>
+            <musicnew>
+                <name>James</name>
+                <duration>3.52</duration>
+                <sprice>1.29</sprice>
+            </musicnew>
+            <price>30.39</price>
+        </vinylnew>
+    </category>
+    <statistics>
+        <totalartists>6</totalartists>
+        <rateartists>
+            <artistname>Chris Stapleton</artistname>
+            <artistalbum>From A Room</artistalbum>
+            <numberscore>4.5</numberscore>
+        </rateartists>
+        <rateartists>
+            <artistname>Frank Sinatra</artistname>
+            <artistalbum>Ultimate Sinatra</artistalbum>
+            <numberscore>4.5</numberscore>
+        </rateartists>
+        <rateartists>
+            <artistname>Pink Floyd</artistname>
+            <artistalbum>The Wall</artistalbum>
+            <numberscore>4.5</numberscore>
+        </rateartists>
+        <rateartists>
+            <artistname>MGMT</artistname>
+            <artistalbum>Little Dark Age</artistalbum>
+            <numberscore>4.5</numberscore>
+        </rateartists>
+        <rateartists>
+            <artistname>Gov't Mule</artistname>
+            <artistalbum>Dark Side of the Mule</artistalbum>
+            <numberscore>4.5</numberscore>
+        </rateartists>
+    </statistics>
+</catalognew>

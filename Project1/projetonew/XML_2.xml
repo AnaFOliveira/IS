@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalog>
+    <vinyl id="B000WOUUM2">
+        <title>Full Moon Fever</title>
+        <artist>Tom Petty</artist>
+        <year>2017</year>
+        <genre>Rock</genre>
+        <genre>Pop</genre>
+        <rating>5</rating>
+        <nreview>211</nreview>
+        <music>
+            <name>Love Is A Long Road</name>
+            <duration>4.07</duration>
+            <srating>5</srating>
+            <snreview>4</snreview>
+            <sprice>1.29</sprice>
+        </music>
+        <music>
+            <name>A Face In The Crowd</name>
+            <duration>3.59</duration>
+            <srating>5</srating>
+            <snreview>8</snreview>
+            <sprice>1.29</sprice>
+        </music>
+        <price>19.19</price>
+    </vinyl>
+    <vinyl id="B06XYJ4GF1">
+        <title>From A Room</title>
+        <artist>Chris Stapleton</artist>
+        <year>2017</year>
+        <genre>Country</genre>
+        <genre>Pop</genre>
+        <rating>4.5</rating>
+        <nreview>211</nreview>
+        <music>
+            <name>Death Row</name>
+            <duration>4.03</duration>
+            <srating>5</srating>
+            <snreview>3</snreview>
+            <sprice>1.29</sprice>
+        </music>
+        <music>
+            <name>I Was Wrong</name>
+            <duration>3.11</duration>
+            <srating>5</srating>
+            <snreview>6</snreview>
+            <sprice>1.29</sprice>
+        </music>
+        <music>
+            <name>Without your love </name>
+            <duration>3.51</duration>
+            <srating>5</srating>
+            <snreview>2</snreview>
+            <sprice>1.29</sprice>
+        </music>
+        <price>20.24</price>
+    </vinyl>
+    <vinyl id="B00U1Z5NAQ">
+        <title>Ultimate Sinatra</title>
+        <artist>Frank Sinatra</artist>
+        <year>2015</year>
+        <genre>Vocal Pop</genre>
+        <rating>4.5</rating>
+        <nreview>535</nreview>
+        <music>
+            <name>All Or Nothing At All</name>
+            <duration>2.58</duration>
+        </music>
+        <music>
+            <name>Nancy</name>
+            <duration>3.12</duration>
+        </music>
+        <price>30.08</price>
+    </vinyl>
+    <vinyl id="B01IOED4BK">
+        <title>The Wall</title>
+        <artist>Pink Floyd</artist>
+        <year>2016</year>
+        <genre>Rock</genre>
+        <genre>Pop</genre>
+        <rating>4.5</rating>
+        <nreview>2350</nreview>
+        <music>
+            <name>Mother</name>
+            <duration>5.34</duration>
+            <srating>5</srating>
+            <snreview>13</snreview>
+            <sprice>1.29</sprice>
+        </music>
+        <music>
+            <name>Hey You</name>
+            <duration>4.38</duration>
+            <srating>4.5</srating>
+            <snreview>26</snreview>
+            <sprice>1.29</sprice>
+        </music>
+        <price>36.41</price>
+    </vinyl>
+    <vinyl id="B078Y34P2N">
+        <title>Little Dark Age</title>
+        <artist>MGMT</artist>
+        <year>2018</year>
+        <genre>Alternative Rock</genre>
+        <genre>Rock</genre>
+        <genre>Pop</genre>
+        <rating>4.5</rating>
+        <nreview>10</nreview>
+        <music>
+            <name>Little Dark Age</name>
+            <duration>4.59</duration>
+            <sprice>1.29</sprice>
+        </music>
+        <music>
+            <name>James</name>
+            <duration>3.52</duration>
+            <sprice>1.29</sprice>
+        </music>
+        <price>30.39</price>
+    </vinyl>
+    <vinyl id="B00NQ2ZGAI">
+        <title>Dark Side of the Mule</title>
+        <artist>Gov't Mule</artist>
+        <year>2014</year>
+        <genre>Rock</genre>
+        <genre>Pop</genre>
+        <rating>4.5</rating>
+        <nreview>240</nreview>
+        <music>
+            <name>Comfortably Numb</name>
+            <duration>6.10</duration>
+            <sprice>1.29</sprice>
+        </music>
+        <music>
+            <name>Have a Cigar</name>
+            <duration>6.27</duration>
+            <sprice>1.29</sprice>
+        </music>
+        <price>26.97</price>
+    </vinyl>
+</catalog>

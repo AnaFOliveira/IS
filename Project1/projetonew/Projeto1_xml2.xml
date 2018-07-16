@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalognew>
+	<category id="Rock">
+			<vinylnew asin="B000WOUUM2">
+				<title>Full Moon Fever</title>
+				<year>2017</year>
+				<artist>Olaaa</artist>
+				<rating>4.5</rating>
+				<nreview>211</nreview>
+				<musicnew>
+					<name>Love Is A Long Road</name>
+					<duration>4.07</duration>
+					<srating>5.0</srating>
+					<snreview>4</snreview>
+					<sprice>1.29</sprice>
+				</musicnew>
+				<price>30.68</price>
+			</vinylnew>
+	</category>
+	<statistics>
+		<totalartists>20</totalartists>
+		<rateartists>
+			<artistname>Ola</artistname>
+			<artistalbum>Olaaa</artistalbum>
+			<numberscore>50</numberscore>
+		</rateartists>
+	</statistics>
+
+</catalognew>
